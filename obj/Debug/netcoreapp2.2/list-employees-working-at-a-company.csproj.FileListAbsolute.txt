@@ -1,0 +1,11 @@
+C:\Users\Alex\workspace\csharp\chap6\list-employees-working-at-a-company\bin\Debug\netcoreapp2.2\list-employees-working-at-a-company.deps.json
+C:\Users\Alex\workspace\csharp\chap6\list-employees-working-at-a-company\bin\Debug\netcoreapp2.2\list-employees-working-at-a-company.runtimeconfig.json
+C:\Users\Alex\workspace\csharp\chap6\list-employees-working-at-a-company\bin\Debug\netcoreapp2.2\list-employees-working-at-a-company.runtimeconfig.dev.json
+C:\Users\Alex\workspace\csharp\chap6\list-employees-working-at-a-company\bin\Debug\netcoreapp2.2\list-employees-working-at-a-company.dll
+C:\Users\Alex\workspace\csharp\chap6\list-employees-working-at-a-company\bin\Debug\netcoreapp2.2\list-employees-working-at-a-company.pdb
+C:\Users\Alex\workspace\csharp\chap6\list-employees-working-at-a-company\obj\Debug\netcoreapp2.2\list-employees-working-at-a-company.csprojAssemblyReference.cache
+C:\Users\Alex\workspace\csharp\chap6\list-employees-working-at-a-company\obj\Debug\netcoreapp2.2\list-employees-working-at-a-company.csproj.CoreCompileInputs.cache
+C:\Users\Alex\workspace\csharp\chap6\list-employees-working-at-a-company\obj\Debug\netcoreapp2.2\list-employees-working-at-a-company.AssemblyInfoInputs.cache
+C:\Users\Alex\workspace\csharp\chap6\list-employees-working-at-a-company\obj\Debug\netcoreapp2.2\list-employees-working-at-a-company.AssemblyInfo.cs
+C:\Users\Alex\workspace\csharp\chap6\list-employees-working-at-a-company\obj\Debug\netcoreapp2.2\list-employees-working-at-a-company.dll
+C:\Users\Alex\workspace\csharp\chap6\list-employees-working-at-a-company\obj\Debug\netcoreapp2.2\list-employees-working-at-a-company.pdb
